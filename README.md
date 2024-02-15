@@ -12,7 +12,7 @@ Using His terminolgy we created features to test and for further testing.
 Starting with determining the "Draw on liqudity"
 
 
-Up or down with logistic regression.
+We have choosen logistic fregression for up or down in price. and have used XGboost classification to help.
 
 
-If there was more time, try more models and more terminolgy. 
+If there was more time, try more models and more ICT terminolgy and trading logic. 
