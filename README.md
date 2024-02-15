@@ -2,7 +2,9 @@ Exploring ICT trading methods and terminogy.
 
 We started off using Databento as a data provider.
 
-Pulled alot of data. data has not been provded here
+Pulled alot of data. data has not been provded here.
+
+There is alot of nice correlations here between assets.
 
 Using His terminolgy we created features to test and for further testing.
 
